@@ -1,0 +1,22 @@
+h1 {
+  font-family: 700;
+  font-size: 40px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+* {
+  text-align: left;
+}
+
+.aj-row {
+  margin: 10px 10px;
+}
+
+.aj-btn {
+  min-width: 100px;
+}

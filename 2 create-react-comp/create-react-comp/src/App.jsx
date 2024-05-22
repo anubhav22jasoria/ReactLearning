@@ -1,5 +1,11 @@
+import Hello from "./Hello";
 function App() {
-  return <h1>Hii to everyone</h1>
+  return <div>
+    <Hello></Hello> 
+    <h1>
+      Hii to everyone
+    </h1>
+  </div>
 }
 
-export default App;
+export default App; 
